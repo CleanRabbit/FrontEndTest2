@@ -1,4 +1,4 @@
-# Smartia Frontend Developer Challenge
+# Frontend Developer Challenge
 
 This repository contains the Smartia frontend challenge.
 
